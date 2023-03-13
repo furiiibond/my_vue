@@ -1,13 +1,12 @@
 <template>
     <div class="banner d-flex flex-column justify-center align-items-center  ">
           
-          <div class="intro">
+          <div class="intro typewriter">
             <p class="ma-0 pa-0">Introducting</p>
-            <h1 class="heading ma-0 pa-0 "> Neva Portfolio </h1>
-            <h2 class="secondary-text"> Minimal and <span> Modern </span> theme for Portfolios and Landing pages </h2>
-            <v-btn color="accent" outlined class="btn my-8">
-                View more 
-            </v-btn>
+            <div class="">
+              <h1 class="heading ma-0 pa-0 "> Jeancamlap's Website </h1>
+            </div>
+            <h2 class="secondary-text"> Website of a <span> Developer </span> and <span>Cyber security</span> passionate </h2>
           </div>
     </div>
 </template>
@@ -18,6 +17,11 @@ export default {
     name:"banner"
 }
 </script>
+
+<style>
+@import '../assets/style.css';
+</style>
+
 
 
 <style lang="scss" >

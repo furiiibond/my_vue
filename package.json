@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --openssl-legacy-provider",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
@@ -51,4 +51,3 @@
   "_id": "zivero@0.1.0",
   "readme": "ERROR: No README data found!"
 }
-

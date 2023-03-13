@@ -5,12 +5,14 @@
             <!-- add your personal bio paragraphs here in this column -->
             
             <h2> ABOUT ME</h2>
-            <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non adipisci laboriosam placeat nihil ullam dolorum beatae voluptatum, eligendi cum alias.</p>
-            <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, perspiciatis.</p>
-            <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio pariatur eius iusto quam totam placeat. Assumenda amet aperiam quasi architecto eum? Fuga debitis beatae amet a? Dolore, libero similique. Eligendi.</p>
+            <p>Hi, I am Jean-Camille LAPIERRE,</p>
+            <p>They have completed their 1st year of DUT in Computer Science and their 3rd year of engineering school at ESISAR Valence.</p>
+            <p>I have experience working as a freelancer on Fiverr, developing Python scripts, Java apps and websites using various technologies and frameworks.</p>
+            <p>In 2021, I completed a development internship at Decalog and they hired me for two months, where I worked with Spring and Jenkins.</p>
+            <p>I am interested in competitive mountain biking at the regional level.</p>
           </v-col>
           <v-col class="col-xs-12">
-              <v-img src="../assets/portrait.jpg" max-width="500px" contain >
+              <v-img src="../assets/velo.jpg" max-width="500px" contain >
 
               </v-img>
           </v-col>
